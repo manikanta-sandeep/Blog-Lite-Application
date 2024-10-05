@@ -105,6 +105,19 @@ The **Blog-Lite Application** is a multi-user platform designed for users to cre
 
 ---
 
+## Activity Flow Diagram
+
+![image](https://github.com/user-attachments/assets/a2af7b43-319e-4af9-a01c-e0f60bc685ef)
+
+---
+
+## Database Class Diagram
+
+
+![image](https://github.com/user-attachments/assets/050e1e70-154a-4b3b-8cc6-60c507caef0f)
+
+---
+
 ## Links and Documents
 
 - **Live Application**: [Blog-Lite Application](https://manikantapuppala.pythonanywhere.com/)
